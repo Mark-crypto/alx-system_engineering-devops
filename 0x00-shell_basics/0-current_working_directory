@@ -1,2 +1,2 @@
 #!/bin/bash
-ls
+echo'Welcome to my second github project. Learning software engineering by ALX'
