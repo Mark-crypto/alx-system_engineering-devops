@@ -1,4 +1,2 @@
 #!/bin/bash
-for combo in {a..z}{a..z}; do
-echo "$combo"
-done | tr -d 'o' | tr -s ' '  
+echo -e {a..z}{a..z} \n | tr -d 'o' | tr -s ' '  
